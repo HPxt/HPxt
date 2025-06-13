@@ -162,15 +162,21 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
       </a>
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL"/><br>GraphQL
+      <a href="https://graphql.org/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL"/><br>GraphQL
+      </a>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/><br>Supabase
+      <a href="https://supabase.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/><br>Supabase
+      </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript"/><br>TypeScript
+      </a>
     </td>
     <td align="center">
       <a href="https://code.visualstudio.com/" target="_blank">
@@ -180,6 +186,16 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
     <td align="center">
       <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"><br>IntelliJ
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com/pt/sqs/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"><br>AWS SQS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vercel.com" target="_blank">
+        <img width="40" height="40" src="https://github.com/HPxt/HPxt/blob/main/img/vercel.jpg?raw=true"><br>Vercel
       </a>
     </td>
   </tr>
