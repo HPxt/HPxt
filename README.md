@@ -90,8 +90,10 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/>Java</a></code>
-&nbsp; 
+<a href="https://www.java.com/pt-BR/" target="_blank">
+  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
+</a>
+
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/>Python</a></code>
 &nbsp; 
 
