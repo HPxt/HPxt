@@ -68,8 +68,8 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 - :earth_americas: Nasci e ainda resido no Brasil.
 - :soccer: Sou cruzeirense.
-- :musical_note: Tenho um estilo musical Eclético, tudo menos sertanejo atual.
-- :airplane: Falo Português, Inglês, espanhol e um pouco de françês e Italiano.
+- :musical_note: Tenho um estilo musical eclético, tudo menos sertanejo atual.
+- :airplane: Falo Português, Inglês, Espanhol e um pouco de Françês e Italiano.
 </p>
 </div>
 </td>
