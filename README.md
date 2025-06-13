@@ -90,114 +90,112 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.java.com/pt-BR/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"><br>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"><br>C
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://isocpp.org/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"><br>C++
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"><br>C#
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/html/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"><br>HTML
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"><br>CSS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/js/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"><br>JavaScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://pt-br.reactjs.org/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"><br>React
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"><br>MySQL
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"><br>PostgreSQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://nodejs.org/en/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"><br>Node.js
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"><br>Docker
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://graphql.org/" target="_blank">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL"/><br>GraphQL
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://supabase.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/><br>Supabase
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" height="40" alt="TypeScript"/><br>TypeScript
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"><br>VS Code
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"><br>IntelliJ
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aws.amazon.com/pt/sqs/" target="_blank">
-        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"><br>AWS SQS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://vercel.com" target="_blank">
-        <img width="40" height="40" src="https://github.com/HPxt/HPxt/blob/main/img/vercel.jpg?raw=true"><br>Vercel
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://www.java.com/pt-BR/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"><br>Python
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"><br>C
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://isocpp.org/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"><br>C++
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"><br>C#
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/html/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"><br>HTML
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/css/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"><br>CSS
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.w3schools.com/js/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"><br>JavaScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pt-br.reactjs.org/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"><br>React
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mysql.com/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"><br>MySQL
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.postgresql.org/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"><br>PostgreSQL
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://nodejs.org/en/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"><br>Node.js
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"><br>Docker
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://graphql.org/" target="_blank">
+          <img width="40" src="https://techstack-generator.vercel.app/graphql-icon.svg"><br>GraphQL
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://supabase.com/" target="_blank">
+          <img width="40" src="https://skillicons.dev/icons?i=supabase"><br>Supabase
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img width="40" src="https://techstack-generator.vercel.app/ts-icon.svg"><br>TypeScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"><br>VS Code
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.jetbrains.com/idea/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"><br>IntelliJ
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://aws.amazon.com/pt/sqs/" target="_blank">
+          <img width="40" src="https://joaopauloaramuni.github.io/image/sqs.png?raw=true"><br>AWS SQS
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://vercel.com" target="_blank">
+          <img width="40" src="https://github.com/HPxt/HPxt/blob/main/img/vercel.jpg?raw=true"><br>Vercel
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 
