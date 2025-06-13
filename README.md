@@ -92,21 +92,16 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 <a href="https://www.java.com/pt-BR/" target="_blank">
   <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
-</a>
-
+</a>&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
   <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"><br>Python
-</a>
-
+</a>&nbsp;&nbsp;
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
   <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"><br>C
-</a>
-
+</a>&nbsp;&nbsp;
 <a href="https://isocpp.org/" target="_blank">
   <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"><br>C++
-</a>
-
-
+</a>&nbsp;&nbsp;
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
   <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"><br>C#
 </a>
