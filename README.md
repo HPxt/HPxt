@@ -63,7 +63,7 @@ Sobre mim:
 <td>
 <div align="justify">
 <p> 
--Meu nome é Henrique Póvoa Peixoto, sou um devenvolvedor full-stack entusiasta de tecnologia e performance. Atualmente estou cursando Engenharia de Software @PucMinas
+Meu nome é Henrique Póvoa Peixoto, sou um devenvolvedor full-stack entusiasta de tecnologia e performance. Atualmente estou cursando Engenharia de Software @PucMinas
 Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgresql, entre outros.
 
 - :earth_americas: Nasci e ainda resido no Brasil.
