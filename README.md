@@ -161,6 +161,27 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
         <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"><br>Docker
       </a>
     </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40" height="40" alt="GraphQL"/><br>GraphQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/><br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="40" height="40"/><br>TypeScript
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"><br>VS Code
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/intellij.png?raw=true"><br>IntelliJ
+      </a>
+    </td>
   </tr>
 </table>
 
