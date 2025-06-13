@@ -66,16 +66,16 @@ Sobre mim:
 -Meu nome é Henrique Póvoa Peixoto, sou um devenvolvedor full-stack entusiasta de tecnologia e performance. Atualmente estou cursando Engenharia de Software @PucMinas
 Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgresql, entre outros.
 
--:earth_americas: Nasci e ainda resido no Brasil.
--:soccer: Sou cruzeirense
--:musical_note: Tenho um estilo musical Eclético, tudo menos sertanejo atual.
--:airplane: Sei falar em Português, Inglês, espanhol e um pouco de françês e Italiano.
+- :earth_americas: Nasci e ainda resido no Brasil.
+- :soccer: Sou cruzeirense
+- :musical_note: Tenho um estilo musical Eclético, tudo menos sertanejo atual.
+- :airplane: Sei falar em Português, Inglês, espanhol e um pouco de françês e Italiano.
 </p>
 </div>
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/HPxt/HPxt/blob/main/img/developer.gif?raw=true" width="800px" height="600px"/>
+<img alt="GIF" src="https://github.com/HPxt/HPxt/blob/main/img/developer.gif?raw=true" width="600x" height="400px"/>
 </div>
 </td>
 </tr>
