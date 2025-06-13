@@ -46,6 +46,11 @@
 </tr> 
 </table>
 
+</div>
+<div align="justify">
+<i><b>Olá</b> :wave:, sou o <code>Pxt</code>, tenho 23 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>Aluno</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+</div>
+
 <!--
 **HPxt/HPxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
