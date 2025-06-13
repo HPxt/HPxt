@@ -118,5 +118,49 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.w3schools.com/html/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/html.svg?raw=true"><br>HTML
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/css.svg?raw=true"><br>CSS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/js/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"><br>JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pt-br.reactjs.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/react.png?raw=true"><br>React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"><br>MySQL
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"><br>PostgreSQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org/en/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"><br>Node.js
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"><br>Docker
+      </a>
+    </td>
+  </tr>
 </table>
 
