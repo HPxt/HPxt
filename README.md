@@ -90,20 +90,33 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<a href="https://www.java.com/pt-BR/" target="_blank">
-  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
-</a>&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank">
-  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"><br>Python
-</a>&nbsp;&nbsp;
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"><br>C
-</a>&nbsp;&nbsp;
-<a href="https://isocpp.org/" target="_blank">
-  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"><br>C++
-</a>&nbsp;&nbsp;
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-  <img width="32" height="32" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"><br>C#
-</a>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/pt-BR/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"><br>Java
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"><br>Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/c.png?raw=true"><br>C
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"><br>C++
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/csharp.png?raw=true"><br>C#
+      </a>
+    </td>
+  </tr>
+</table>
 
