@@ -51,17 +51,39 @@
 <i><b>Olá</b> :wave:, sou o <code>Pxt</code>, tenho 23 anos, moro em BH e sou programador desde os 19 anos de idade. Atualmente sou <code>Aluno</code> no curso de Engenharia de Software da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
-<!--
-**HPxt/HPxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre mim:
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<div align="justify">
+<p> 
+Meu nome é Henrique Póvoa Peixoto, sou um devenvolvedor full-stack entusiasta de tecnologia e performance. Atualmente estou cursando Engenharia de Software @PucMinas
+Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgresql, entre outros.
+
+:earth_americas: Nasci e ainda resido no Brasil.
+:soccer: Sou cruzeirense
+:musical_note: Tenho um estilo musical Eclético, tudo menos sertanejo atual.
+:airplane: Sei falar em Português, Inglês, espanhol e um pouco de françês e Italiano.
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="GIF" src="https://github.com/HPxt/HPxt/blob/main/img/developer.gif?raw=true" width="340px" height="650px"/>
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+-----
