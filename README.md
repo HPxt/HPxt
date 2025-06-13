@@ -75,7 +75,7 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/HPxt/HPxt/blob/main/img/developer.gif?raw=true" width="340px" height="650px"/>
+<img alt="GIF" src="https://github.com/HPxt/HPxt/blob/main/img/developer.gif?raw=true" width="800px" height="600px"/>
 </div>
 </td>
 </tr>
