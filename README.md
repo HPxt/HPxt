@@ -5,7 +5,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://HPxt/HPxt/img/Header.png?raw=true"/>
+<img align="center" alt="Header" src="https://HPxt/HPxt/Header.png?raw=true"/>
 </div>
 
 -----
