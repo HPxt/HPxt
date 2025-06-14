@@ -232,7 +232,7 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 </tr>
 <tr>
 <td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/HPxt/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/HPxt/langs?time_range=one_year&include_private=True&theme=dark?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=HPxt&theme=dark&layout=compact"/>
