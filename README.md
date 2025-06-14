@@ -309,5 +309,6 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 </td>
 <td>
 
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=HPxt"/>
 
 
