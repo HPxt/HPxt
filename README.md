@@ -290,7 +290,7 @@ Já fiz projetos com: Java, C, C++, Python, Node.js, Typescript, ReactJs, Postgr
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Pxt's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22msg4l3m7aalad2asuk2tyty" alt="Data Card for Spotify">
 </details>
 </div>
